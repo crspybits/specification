@@ -67,4 +67,4 @@ Below are some common roles and their descriptions as useful guidelines. It is n
 
 ### Solid Project Director
 
-* Has sudo.
+* Provides direction.
