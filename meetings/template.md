@@ -4,14 +4,19 @@
 * Call: url
 * Chat: url
 * Repository: url
+* License: MIT License
+* Status: Draft|Published
 
 
 ## Present
+* [name](url) (moderator)
 * [name](url)
 
 ---
 
 ## Announcements
+
+Participants are to note the [W3C Solid Community Group Meeting Guidelines](https://github.com/solid/specification/blob/main/meetings/README.md).
 
 ### Meeting Recordings and Transcripts
 * No audio or video recording, or automated transcripts without consent. Meetings are transcribed and made public. If consent is withheld by anyone, recording/retention must not occur.
