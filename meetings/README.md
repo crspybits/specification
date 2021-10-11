@@ -18,7 +18,7 @@ Steps to publishing minutes:
 2. Push minutes to the main branch of relevant repository.
 3. Announce minutes URL.
 4. Improvements to the minutes can be PR'd.
-5. Approve minutes in a future meeting. Change minute's publication status to "Published". Merge minutes in PR if there is one, otherwise update the main branch.
+5. Approve minutes in a future meeting. Change minutes' publication status to "Published". Merge minutes in PR if there is one, otherwise update the main branch.
 
 
 ## Roles in Meetings
