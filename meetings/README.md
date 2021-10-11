@@ -64,7 +64,3 @@ Below are some common roles and their descriptions as useful guidelines. It is n
 * May adopt or request to take on a role before or during the meeting.
 * Provides guidance to processes, charters and the Solid ecosystem.
 * Follows up on Community Group related actions.
-
-### Solid Project Director
-
-* Provides direction.
